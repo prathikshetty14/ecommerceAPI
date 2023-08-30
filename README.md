@@ -49,7 +49,7 @@ The server will start on port 8000 or the port you specified in the `.env` file.
 
 ## Author
 
-This project is done by Prathik Shetty
+This project is done by <I>Prathik Shetty</I>
 
 
 
